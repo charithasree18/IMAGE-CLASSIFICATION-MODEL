@@ -29,3 +29,7 @@ The architecture of the CNN model itself is designed with multiple layers. It be
 This image classification task has wide-ranging applications across numerous industries. In **healthcare**, for instance, image classification models are used to identify diseases from medical images such as X-rays, MRI scans, and CT scans. In the field of **autonomous vehicles**, similar models are crucial for identifying pedestrians, vehicles, traffic signs, and other objects. **Retail** applications include product recognition for automated tagging and recommendation systems on e-commerce platforms. **Security** systems utilize image classification in facial recognition technology, aiding in surveillance and identity verification. Additionally, social media platforms use image classification for content recommendation, filtering, and moderation.
 
 In conclusion, this image classification task demonstrates the use of deep learning tools and platforms to develop a CNN capable of classifying images effectively. With the help of TensorFlow, Keras, and other Python libraries, this task serves as a foundation for real-world applications of image classification across diverse fields like healthcare, autonomous systems, retail, and security.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/b0949cff-8450-42af-a4b1-a4a63ae0dd48)
